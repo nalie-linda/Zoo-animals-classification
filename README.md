@@ -20,7 +20,7 @@
       which animals are in which type: (I find it unusual that there are
       2 instances of "frog" and one of "girl"!)
 
-      Class# Set of animals:
+      Class# Set of animals:  Mammal, Bird, Reptile, Fish, Amphibian, Bug and Invertebrate
       ====== ===============================================================
            1 (41) aardvark, antelope, bear, boar, buffalo, calf,
                   cavy, cheetah, deer, dolphin, elephant,
