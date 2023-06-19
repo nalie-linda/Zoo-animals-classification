@@ -34,13 +34,13 @@ Set of animals:  Mammal, Bird, Reptile, Fish, Amphibian, Bug and Invertebrate
      |  3   |  5     |    pitviper, seasnake, slowworm, tortoise, tuatara                                                  |     Reptile            |
       
    
-     |  4   |    13  |    bass, carp, catfish, chub, dogfish, haddock, herring, pike, piranha, seahorse, sole, stingray, tuna|   Fish               |
+     |  4   |    13  | bass, carp, catfish, chub, dogfish, haddock, herring, pike, piranha, seahorse, sole, stingray, tuna  |    Fish              |
                   
       | 5    |   4   |               frog, frog, newt, toad                                                                 |    Amphibian          |
       
       |  6   |    8  |       flea, gnat, honeybee, housefly, ladybird, moth, termite, wasp                                  |    Bug                |
       
-      | 7    | 10     |      clam, crab, crayfish, lobster, octopus,   scorpion, seawasp, slug, starfish, worm              |     Invertebrate      |
+      | 7    | 10    |      clam, crab, crayfish, lobster, octopus,   scorpion, seawasp, slug, starfish, worm               |     Invertebrate      |
                 
 
 6. Number of Instances: 101
