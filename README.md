@@ -20,31 +20,34 @@
       which animals are in which type: (I find it unusual that there are
       2 instances of "frog" and one of "girl"!)
 
-      Class# Set of animals:  Mammal, Bird, Reptile, Fish, Amphibian, Bug and Invertebrate
-      ====== ===============================================================
-           1 (41) aardvark, antelope, bear, boar, buffalo, calf,
-                  cavy, cheetah, deer, dolphin, elephant,
-                  fruitbat, giraffe, girl, goat, gorilla, hamster,
-                  hare, leopard, lion, lynx, mink, mole, mongoose,
-                  opossum, oryx, platypus, polecat, pony,
-                  porpoise, puma, pussycat, raccoon, reindeer,
-                  seal, sealion, squirrel, vampire, vole, wallaby,wolf
-           2 (20) chicken, crow, dove, duck, flamingo, gull, hawk,
-                  kiwi, lark, ostrich, parakeet, penguin, pheasant,
-                  rhea, skimmer, skua, sparrow, swan, vulture, wren
-           3 (5)  pitviper, seasnake, slowworm, tortoise, tuatara 
-           4 (13) bass, carp, catfish, chub, dogfish, haddock,
-                  herring, pike, piranha, seahorse, sole, stingray, tuna
-           5 (4)  frog, frog, newt, toad 
-           6 (8)  flea, gnat, honeybee, housefly, ladybird, moth, termite, wasp
-           7 (10) clam, crab, crayfish, lobster, octopus,
-                  scorpion, seawasp, slug, starfish, worm
+Set of animals:  Mammal, Bird, Reptile, Fish, Amphibian, Bug and Invertebrate
+      ------- ===============================================================
 
-5. Number of Instances: 101
+     | Class| Number_Of_Animal_Species_In_Class|                   Animal_Names                                           |    Set Animals          |
+     | -----| ---------------------------------|------------------------------------------------------------------------- | ------------------------|
+     |    1 |  41    | aardvark, antelope, bear, boar, buffalo, calf, cavy, cheetah, deer, dolphin, elephant,             |      Mammals            |
+                        fruitbat, giraffe, girl, goat, gorilla, hamster, hare, leopard, lion, lynx, mink, mole, mongoose,    
+                        opossum, oryx, platypus, polecat, pony, porpoise, puma, pussycat, raccoon, reindeer,
+                         seal, sealion, squirrel, vampire, vole, wallaby,wolf  
+     |  2   |   20   |  chicken, crow, dove, duck, flamingo, gull, hawk, kiwi, lark, ostrich, parakeet, penguin, pheasant,|      Bird               |
+                       rhea, skimmer, skua, sparrow, swan, vulture, wren                
+     |  3   |  5     |    pitviper, seasnake, slowworm, tortoise, tuatara                                                  |     Reptile            |
+      
+   
+     |  4   |    13  |    bass, carp, catfish, chub, dogfish, haddock, herring, pike, piranha, seahorse, sole, stingray, tuna|   Fish               |
+                  
+      | 5    |   4   |               frog, frog, newt, toad                                                                 |    Amphibian          |
+      
+      |  6   |    8  |       flea, gnat, honeybee, housefly, ladybird, moth, termite, wasp                                  |    Bug                |
+      
+      | 7    | 10     |      clam, crab, crayfish, lobster, octopus,   scorpion, seawasp, slug, starfish, worm              |     Invertebrate      |
+                
 
-6. Number of Attributes: 18 (animal name, 15 Boolean attributes, 2 numerics)
+6. Number of Instances: 101
 
-7. Attribute Information: (name of attribute and type of value domain)
+7. Number of Attributes: 18 (animal name, 15 Boolean attributes, 2 numerics)
+
+8. Attribute Information: (name of attribute and type of value domain)
    1. animal name:      Unique for each instance
    2. hair		Boolean
    3. feathers		Boolean
